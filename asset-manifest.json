@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.9622e9c1.css",
-    "main.js": "/static/js/main.328e9e5a.js",
+    "main.css": "/static/css/main.55a88984.css",
+    "main.js": "/static/js/main.5fcd2f76.js",
     "static/js/703.f0718a19.chunk.js": "/static/js/703.f0718a19.chunk.js",
     "static/js/513.80d7f541.chunk.js": "/static/js/513.80d7f541.chunk.js",
     "static/js/787.a74b1e72.chunk.js": "/static/js/787.a74b1e72.chunk.js",
     "static/media/Old Typography.ttf": "/static/media/Old Typography.b673a375c40bff44e3e2.ttf",
+    "static/media/FashionStamp-DOv2W.otf": "/static/media/FashionStamp-DOv2W.62856eea9b854c6663cb.otf",
     "static/media/NeoPrintM319.otf": "/static/media/NeoPrintM319.b4cc85016ced2bce1803.otf",
     "static/media/BLUEFISH BLACK SCRATCHED_Demo.otf": "/static/media/BLUEFISH BLACK SCRATCHED_Demo.ae7ab453200a135e282f.otf",
     "static/media/old_stamper.ttf": "/static/media/old_stamper.faf4e7804aae0e34da5b.ttf",
-    "static/media/OldSchool-Regular.otf": "/static/media/OldSchool-Regular.6bc465b2e6a0e9fc24da.otf",
-    "static/media/OldSchool-Regular.ttf": "/static/media/OldSchool-Regular.6bc465b2e6a0e9fc24da.ttf",
     "index.html": "/index.html",
-    "main.9622e9c1.css.map": "/static/css/main.9622e9c1.css.map",
-    "main.328e9e5a.js.map": "/static/js/main.328e9e5a.js.map",
+    "static/media/nav.svg": "/static/media/nav.440fdd96e438fa24ae7d3ce9f49a4332.svg",
+    "main.55a88984.css.map": "/static/css/main.55a88984.css.map",
+    "main.5fcd2f76.js.map": "/static/js/main.5fcd2f76.js.map",
     "703.f0718a19.chunk.js.map": "/static/js/703.f0718a19.chunk.js.map",
     "513.80d7f541.chunk.js.map": "/static/js/513.80d7f541.chunk.js.map",
     "787.a74b1e72.chunk.js.map": "/static/js/787.a74b1e72.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9622e9c1.css",
-    "static/js/main.328e9e5a.js"
+    "static/css/main.55a88984.css",
+    "static/js/main.5fcd2f76.js"
   ]
 }
